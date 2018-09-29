@@ -3,19 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package MultiThread;
+package MultiThread1;
 
 /**
  *
  * @author ASHIM
  */
-public class TestThread {
+public class ThreadDemo {
     public static void main(String args[]){
-        ThreadDemo t1=new ThreadDemo("Thread-1");
-        t1.start();//Another thread t1 is start;
-        
-        ThreadDemo t2=new ThreadDemo("Thread-2");
-        t2.start();//Another thread t2 is start;
+        A obj1=new A();
+        B obj2=new B();
+        obj1.start();
+        obj2.start();
     }
     
 }
