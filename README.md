@@ -9,7 +9,7 @@
 2. insert at end
 3. insert at position
 4. delete at position</br>
-<p>&#8594; Sourc Code : <a href="https://www.sanfoundry.com/java-program-implement-singly-linked-list/">Java LinkedList</a></p>
+<p>&#8594;Sourc Code : <a href="https://www.sanfoundry.com/java-program-implement-singly-linked-list/">Java LinkedList</a></p>
 
 <h1>Interview Question</h1>
 <a href="http://www.codespaghetti.com/interview-questions/">Questions Programming Interviews</a></br>
