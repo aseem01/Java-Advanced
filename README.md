@@ -10,6 +10,7 @@
 3. insert at position
 4. delete at position</br>
 <p>&#8594;Source Code : <a href="https://www.sanfoundry.com/java-program-implement-singly-linked-list/">Java LinkedList</a></p>
+<p> video : <a href="https://www.youtube.com/watch?v=2S8E2eGIEjg"/>Delete</p>
 
 <h1>Interview Question</h1>
 <a href="http://www.codespaghetti.com/interview-questions/">Questions Programming Interviews</a></br>
