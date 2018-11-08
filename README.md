@@ -3,7 +3,12 @@
 2.<a href="https://beginnersbook.com/2013/03/multithreading-in-java/">Java Multithreading</a></br>
 
 <h1>Java LinkedList Implementation</h1>
-<p>We can firstly insert and delete and any position insert and delete</p>
+<h5>Singly Linked List Operations</h5>
+ 
+1. insert at begining
+2. insert at end
+3. insert at position
+4. delete at position
 <a href="https://www.sanfoundry.com/java-program-implement-singly-linked-list/">Java LinkedList</a>
 
 <h1>Interview Question</h1>
