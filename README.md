@@ -15,5 +15,7 @@
 <h1>Interview Question</h1>
 <a href="http://www.codespaghetti.com/interview-questions/">Questions Programming Interviews</a></br>
 
-<h1>SQL</h1>
-<a href="https://www.w3resource.com/sql-exercises/"/>Sql Practice</a>
+<h1>SQL Practice</h1>
+<a href="https://www.w3resource.com/sql-exercises/"/>W3School</a>
+<a href="https://www.hackerrank.com/domains/sql"/>Hackerrank</a>
+<a href="https://app.codesignal.com/arcade/db"/>CodeSignal</a>
