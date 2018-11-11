@@ -14,3 +14,6 @@
 
 <h1>Interview Question</h1>
 <a href="http://www.codespaghetti.com/interview-questions/">Questions Programming Interviews</a></br>
+
+<h1>SQL</h1>
+<a href="https://www.w3resource.com/sql-exercises/"/>Sql Practice</a>
