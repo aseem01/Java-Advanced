@@ -3,19 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package java_advances;
+package Multiple_Inheritance_01;
 
 /**
  *
  * @author ASHIM
  */
-public class Java_Advances {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public interface InterfaceB {
+    public void doSomething();
     
 }
